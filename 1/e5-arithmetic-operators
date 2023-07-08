@@ -1,0 +1,35 @@
+let x = 5;
+let y = 2;
+
+/*Adding Operator*/
+
+let sum = x + y;
+
+console.log("x:", x, "y:", y, "sum:", sum);
+
+/* Substraction operator */
+let Substraction = x - y;
+console.log("x:", x, "y:", y, "substraction:", Substraction)
+
+/* Multiplication operator */
+let Multiplication = x + y;
+console.log("x:", x, "y:", "multiplication:", Multiplication);
+
+/* division operator */
+
+let division = x / y;
+console.log("x:", x, "y:", "division:", division);
+
+/* Modulus operator */
+
+let remainder = x % y;
+console.log("x:", x, "y:", y, "remainder:", remainder);
+
+/* Increment */
+x++;
+console.log("x:", x);
+
+/* Decremeent */
+y--;
+console.log("y:", y);
+
