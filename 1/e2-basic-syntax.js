@@ -14,13 +14,13 @@ const c = 3.0;
 
 console.log(a,b,c);
 
-// Operators / operatörler
+Operators / operatörler
 
-const d = a - c;
+ const d = a - c;
 
 const e = 10;
 
-  console.log(d); 
+   console.log(d); 
 
   console.log(e)
 
